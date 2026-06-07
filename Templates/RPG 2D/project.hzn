@@ -1,0 +1,4 @@
+name: RPG 2D
+template: RPG 2D
+version: 1.0
+scene: Scenes/main.scene.json

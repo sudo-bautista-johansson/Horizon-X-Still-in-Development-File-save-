@@ -1,0 +1,4 @@
+name: Shooter 2D
+template: Shooter 2D
+version: 1.0
+scene: Scenes/main.scene.json

@@ -1,0 +1,4 @@
+name: Isometric 2D
+template: Isometric 2D
+version: 1.0
+scene: Scenes/main.scene.json
