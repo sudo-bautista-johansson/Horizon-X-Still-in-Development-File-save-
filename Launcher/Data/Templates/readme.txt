@@ -1,0 +1,1 @@
+Launcher templates directory. Each template has a template.json and sample files.

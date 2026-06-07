@@ -1,0 +1,6 @@
+Horizon X v0.2.1
+
+* Added Script Editor
+* Added Entity Picking
+* Improved Dockspace
+* Fixed framebuffer resize
